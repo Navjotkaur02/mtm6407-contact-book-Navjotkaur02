@@ -1,0 +1,12 @@
+/* src/style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f8ff; /* Light blue background for the app */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
